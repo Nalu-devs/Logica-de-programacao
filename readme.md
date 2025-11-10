@@ -130,3 +130,7 @@ Guardar 20 valores reais em um vetor e mostrar todos os valores guardados nas po
 Guardar 20 valores inteiros em um vetor e mostrar como resultado: Se o valor for positivo, seu dobro, se o valor negativo, seu positivo correspondente.
 ### Exercicio 036
 Guardar 10 valores inteiros e positivos em um vetor e gerar outro vetor comresultados da seguinte forma: Se o valor guardado for par, multiplica-lo por 2, se o valor guardado for ímpar, multiplica-lo por -1.
+### Exercicio 037
+Guardar em um vetor o ano de nascimento de 10 pessoas e gerar em outro vetor a idade de cada pessoa. Mostrar como resultado o ano de nascimento e a idade calculada das 10 pessoas e mostre qual a média das idades.
+### Exercicio 038
+Ler os valores de um vetor inteiro de tamanho 10, e mostre o resultado da soma dos números ímpares presentes neste vetor.
